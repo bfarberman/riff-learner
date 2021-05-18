@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+**RIFFLEARNER**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**ABOUT THIS APP**
 
-## Available Scripts
+RiffLearner is an online keyboard pre-loaded with riffs from your favorite songs. Choose a famous riff or melody, pull up the notes, and play it on RiffLearner.
 
-In the project directory, you can run:
+<img width="1050" alt="Screen Shot 2021-04-13 at 9 02 04 AM" src="https://user-images.githubusercontent.com/53374859/114557312-8b5a0900-9c37-11eb-8cdd-717a7d8dfa9f.png">
+ 
+ **MADE USING:**
 
-### `yarn start`
+-React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**UPCOMING FEATURES:**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Users will be able to pull up the notes for different riffs and melodies. The notes will be positioned next to an online keyboard, so the user can teach themselves the song. A link to stream the song will also be available, so the user can hear how it goes and play along.
 
-### `yarn test`
+**WHY I WANTED TO BUILD THIS:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Learning is one of the joys of life. But with jobs and families, we often need to learn and practice things in small pieces. So here's an app that allows you to work on tiny parts of famous songs. A future version of this app could allow for adding different pieces of the same song. 
 
-### `yarn build`
+**CHALLENGES:**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I'm sure that putting all of the pieces together will pose a challenge. Ideally, one would click on a song and go to that page. The song would start playing, the notes would appear, the keyboard would work, and you could play along with the song. This will take some coordinating.
